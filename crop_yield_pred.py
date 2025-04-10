@@ -61,4 +61,3 @@ st.download_button(
     file_name=f"yield_predictions_{selected_year}.csv",
     mime="text/csv"
 )
-python -m streamlit run crop_yield_pred.py
